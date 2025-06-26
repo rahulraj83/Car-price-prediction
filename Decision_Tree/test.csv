@@ -1,0 +1,30 @@
+Model Evaluation:
+Mean Squared Error: 92712993494.66
+Root Mean Squared Error: 304488.08
+Mean Absolute Error: 107868.69
+R² Score: 0.6962
+
+Predicted Selling Price: ₹578549.99
+
+5 features:
+Model Evaluation:
+Mean Squared Error: 89424262492.93
+Root Mean Squared Error: 299038.90
+Mean Absolute Error: 109432.90
+R² Score: 0.7070
+
+Predicted Selling Price: ₹571369.99
+
+Decision Model Evaluation:
+Mean Squared Error: 137181308384.64
+Root Mean Squared Error: 370379.95
+R² Score: 0.5505
+
+Predicted Selling Price: ₹600000.0
+
+Model Evaluation: 10 max depth
+Mean Squared Error: 132948595487.64
+Root Mean Squared Error: 364621.17
+R² Score: 0.5643
+
+Predicted Selling Price: ₹418066.61
